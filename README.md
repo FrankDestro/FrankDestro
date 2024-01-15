@@ -1,7 +1,7 @@
 ### <div align="center">Olá, me chamo Franklyn e sou Desenvolvedor de Software.</div>  
   
 
-- 🔭 Desenvolvedor de software full-stack, com experiência em Java, Javascript, Angular, React, TailwindCSS e MySQL.
+- Desenvolvedor de software full-stack, com experiência em Java, Javascript, React e MySQL.
 
 - Formado em Sistema de Informação pela Eniac
 - Pós graduação MBA Gereciamento de projetos pela Universidade São Judas Tadeu
