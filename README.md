@@ -35,15 +35,7 @@
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
 </td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
@@ -51,7 +43,6 @@
 
 
 ## Languages and Tools  
-
 
 ### Habilidades e Conhecimentos  
 <div align="center">  
