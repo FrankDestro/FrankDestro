@@ -1,7 +1,7 @@
 ### <div align="center">Olá, me chamo Franklyn e sou Desenvolvedor de Software.</div>  
   
 
-- Desenvolvedor de software full-stack, com experiência em Java, Javascript, React e MySQL.
+- Desenvolvedor de software full-stack: Java, Spring Boot(TDD, JUnit, JWT, OAuth2, JPA, Security), ReactJS, HTML/CSS, PostgreSQL/MySQL , NOSQL MongoDB/CassandraDB, MicroServices, Postman, Docker
 
 - Formado em Sistema de Informação pela Eniac
 - Pós graduação MBA Gereciamento de projetos pela Universidade São Judas Tadeu
@@ -17,7 +17,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 </td><td valign="top" width="33%">
