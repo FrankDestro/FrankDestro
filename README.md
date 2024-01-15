@@ -31,6 +31,19 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Git" height="50" /></a>  
 </div>
 
+
+
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/python-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS1SaMHEYVflJ3oq-uT0Gimo2fMPPjZnVZ5zlsgWoh6w&s)" alt="Git" height="50" /></a>  
+</div>
+
+
+
+
+
+
+
+
 </td><td valign="top" width="33%">
   
 ### DevOps  
