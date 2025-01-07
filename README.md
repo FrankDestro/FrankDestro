@@ -28,9 +28,35 @@
 
 
 ### Summary  
-- Full-stack software developer: Java, Spring Boot (TDD, JUnit, JWT, OAuth2, JPA, Security), ReactJS, HTML/CSS, PostgreSQL/MySQL, NOSQL MongoDB/CassandraDB, MicroServices, Postman, Docker  
+- Software Developer | Java | ReactJs | SQL| TDD | Spring boot | Backend
 - Graduated in Information Systems from Eniac
 - Postgraduate MBA Project Management from Universidade São Judas Tadeu
+
+Profissional com sólida experiência na área de Sistemas de Informação, atuando como Desenvolvedor Full Stack e Analista de Microinformática Pleno. 
+Ao longo da minha trajetória profissional, exerci atividades como: Desenvolvimento de aplicações web utilizando Java com framework Spring Boot. Desenvolvimento do front-end das aplicações utilizando ReactJs, criando interfaces com integrações com back-end. Responsável pela manutenção de Bots de WhatsApp para atendimento de renegociação de dívidas, incluindo atualizações de acordo com as necessidades dos clientes, bem como o desenvolvimento de novos Bots para novos negócios. Atualizações de implementação de IA para melhorar a eficiência e qualidade dos atendimentos, tornando-os mais naturais. Colaborei com os departamentos da empresa para o desenvolvimento de aplicações, desde o levantamento de requisitos até o desenvolvimento e implantação do projeto, entre outras responsabilidades. MBA em Gerenciamento de Projetos. Bacharel em Sistemas de Informação. Inglês nível intermediário.
+
+Skill. 
+- Java (versão 11, 17, 21) 
+- JavaScript 
+- TypeScript 
+- Spring Boot (versão 3) 
+- Spring Security (JWT, Oauth2, Keycloak) 
+- ReactJS (versão 18) 
+- Tailwind CSS 
+- Banco de dados Relacional – PostgreSQL, MySQL, SQL Server
+- Banco de dados NoSQL – MongoDB, Cassandra 
+- Programação Orientada a Objetos (POO) 
+- HTML5 / CSS3 
+- Testes Automatizados - Testes Unitários, Testes de Integração.
+- TDD – Test Driver Development. 
+- Junit5 – MockMVC, Mockito, RestAssured 
+- Cobertura de testes com Jacoco. 
+- Microservices – Eureka Discovery, Spring API Gateway, OpenFeign, resilience4J 
+- Observability (Prometheus, Grafana, Distributed Trace - Zipkin)
+- AWS – EBS, EC2, RDS, S3, IAM 
+- Docker
+- Linux 
+- Git / Github (GithubActions)
   
 
 <br/>  
@@ -93,9 +119,9 @@
 
 
 ## Main Projects
-- E-commerce
-- Sistema de helpdesk
-- Sistema PDV 
+- E-Commerce - Shope+
+- Support System - Support Service
+- Chat WhatsApp 
 
 
 ## Github Stats  
