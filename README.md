@@ -1,91 +1,22 @@
-# 👋 Hi, I'm Franklyn Damaceno
+<h1 align="center">Hi 👋, I'm Franklyn Destro Damaceno</h1>
+<h3 align="center">Full-Stack Software Developer</h3>
 
-💻 Full-Stack Software Developer  
-☕ Java | Spring Boot | React | SQL | TDD | Cloud
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frankdestro&label=Profile%20views&color=0e75b6&style=flat" alt="frankdestro" /> </p>
 
-Sou desenvolvedor full-stack com foco em **backend Java**, arquitetura de sistemas e qualidade de código. Atuo no desenvolvimento de APIs, microsserviços e aplicações web modernas, priorizando **boas práticas, testes automatizados e manutenibilidade**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frankdestro" alt="frankdestro" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🔗 Connect with me
-- 💼 LinkedIn: https://linkedin.com/in/Franklyn Damaceno  
-- 🐙 GitHub: https://github.com/FrankDestro  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/franklyn-damaceno-441baa143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franklyn-damaceno-441baa143/" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-## 🧠 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankdestro&show_icons=true&locale=en&layout=compact" alt="frankdestro" /></p>
 
-- 🎓 MBA em Gerenciamento de Projetos  
-- 🎓 Bacharel em Sistemas de Informação  
-- 🌍 Inglês: Intermediário  
-- 🧪 Forte cultura de Testes Automatizados e TDD  
-- ⚙️ Interesse contínuo em Arquitetura, Microsserviços e Processamento em Batch  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankdestro&show_icons=true&locale=en" alt="frankdestro" /></p>
 
----
-
-## 🛠️ Technical Skills
-
-### 🔹 Backend & Architecture
-- Java (11, 17, 21)
-- Spring Boot 3
-- Spring Security (JWT, OAuth2, Keycloak)
-- Spring Batch (Jobs, Steps, ItemReader, ItemProcessor, ItemWriter)
-- Spring Cloud (Eureka, Gateway, OpenFeign, Resilience4j)
-- JPA / Hibernate / JPA Auditing
-- Programação Orientada a Objetos (POO)
-- Programação Orientada a Aspectos (Spring AOP)
-- Arquitetura de Microsserviços
-
-### 🔹 Frontend
-- ReactJS 18
-- Angular (experiência profissional)
-- JavaScript | TypeScript
-- HTML5 | CSS3
-- Tailwind CSS
-
-### 🔹 Databases
-- Relacionais: PostgreSQL, MySQL, SQL Server
-- NoSQL: MongoDB, Cassandra
-
-### 🔹 Tests & Quality
-- Testes Unitários e de Integração
-- TDD (Test Driven Development)
-- JUnit 5
-- Mockito, MockMvc, RestAssured
-- Cobertura de testes com JaCoCo
-
-### 🔹 DevOps & Cloud
-- AWS (EC2, EBS, RDS, S3, IAM)
-- Docker
-- Linux
-- Git / GitHub
-- GitHub Actions (CI/CD)
-- Observability: Prometheus, Grafana, Zipkin
-
----
-
-## 🚀 Main Projects
-
-- 🛒 **E-Commerce – Shope+**  
-  Plataforma de e-commerce com arquitetura modular e foco em escalabilidade.
-
-- 🛠️ **Support System – Support Service**  
-  Sistema de atendimento e suporte com backend robusto e integração entre serviços.
-
-- 💬 **WhatsApp Chat Integration**  
-  Chat automatizado utilizando APIs e webhooks para integração com WhatsApp.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankdestro&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankdestro&layout=compact)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=frankdestro&style=flat-square)
-
----
-
-📌 *Este repositório reflete meu aprendizado contínuo, evolução técnica e projetos profissionais.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankdestro&" alt="frankdestro" /></p>
